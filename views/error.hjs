@@ -1,0 +1,12 @@
+  <div>
+    <h1>{{message}}</h1>
+    <h2>{{error.status}}</h2>
+    <h3>either u r not registered || ur username or password is not registered</h3>
+    <a href="/register">
+    click here to register
+    </a>
+    </br> OR
+    <a href="/login">
+    click here to login again
+    </a>
+  </div>

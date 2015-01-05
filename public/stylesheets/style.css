@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.frame h2{
+  font-family:Arial;
+  color: red;
+}
+.frame {
+  width:900px;
+  height:400px;
+  border: red solid 10px;
+}

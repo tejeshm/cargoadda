@@ -1,0 +1,5 @@
+export STORMPATH_API_KEY_ID=MM03JBKF9VCB4HRPVGRUG2Z0X
+export STORMPATH_API_KEY_SECRET=4JXQPE378rPbCCvddxC/+G2dw356wsDAKXNvaoDX/yU
+export STORMPATH_APP_HREF=https://api.stormpath.com/v1/applications/49mumCUVakALx17ZzsPU7X
+export EXPRESS_SECRET=helloworld
+

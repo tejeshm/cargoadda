@@ -1,0 +1,9 @@
+ <html>
+    <head>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+        <title>{{user.email}}</title>
+    </head>
+    <body>{{post.message}}
+    successfully registered
+    </body>
+    </html>

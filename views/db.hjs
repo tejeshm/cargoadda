@@ -1,0 +1,6 @@
+<html>
+  {{#users}}
+      <p>{{user}}</p>
+      {{user}}
+
+</html>

@@ -1,0 +1,55 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/stylesheets/dashboard.css"></link>
+</head>
+<center>
+<body>
+<div class="page">
+<div class="header">
+<h1>LOADLORRY</h1>
+<h3>a load without strain and stress</h3>
+<div class="sublinks">
+<a href="">Home |</a>
+<a href="">About us |</a>
+<a href="">Post load |</a>
+<a href="">Services |</a>
+<a href="">Contact us |</a><br>
+</div>
+</div>
+
+<div class="loginbox">
+<div class="login">
+    <h1>Login</h1>
+    <form method="post" action="">
+      <p><input type="text" name="username" placeholder="Username"></p>
+      <p><input type="password" name="password" value="" placeholder="Password"></p>
+        <label>
+         <label>
+          <input type="checkbox" name="remember_me" id="remember_me">
+          Remember me on this computer
+        </label>
+        </label>
+      <input type="submit" name="commit" value="Login">
+    </form>
+    <p>New account? <a href="/register">Click here to register</a>.</p>
+  </div>
+</div>
+<div class="menubody">
+<div class="leftbody">
+	<h2>Quick links</h2>
+<div class="data"></div>
+</div>
+<div class="middlebody">
+<div class="data">
+</div>
+</div>
+<div class="rightbody">
+<h2>News</h2>
+<div  class="data"></div>
+</div>
+
+</div>
+</div>
+</body>
+</center>
+</html>

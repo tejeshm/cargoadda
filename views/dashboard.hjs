@@ -1,0 +1,61 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/stylesheets/dashboard.css"></link>
+</head>
+<center>
+<body>
+<div class="page">
+		<div class="header">
+		<h1>LOADLORRY</h1>
+		<h3>a load without strain and stress</h3>
+	<div class="sublinks">
+	Welcome &nbsp;{{user.email}}
+<form method="post" action="/login">
+<button type="submit" >Logout
+</button>
+</form>
+<a href="">Home |</a>
+<a href="">About us |</a>
+<a href="">Post load |</a>
+<a href="">Services |</a>
+<a href="">Contact us |</a><br>
+</div>
+</div>
+<div class="menu">
+	<a href="">profile </a>&nbsp;
+<a href="">posts </a>&nbsp;
+<a href="">loads </a>&nbsp;
+<a href="">Services </a>&nbsp;
+<a href="">tracking  </a><br>
+
+</div>
+
+<div class="postbox">
+<div class="post">
+<form method="post" action="/savepost">
+<textarea name="comments"  cols="45" rows="5">
+Enter text
+</textarea><br>
+<input type="submit" value="Submit" />
+</form>
+</div>
+</div>
+<div class="menubody">
+<div class="leftbody">
+	<h2>Quick links</h2>
+<div class="data"></div>
+</div>
+<div class="middlebody">
+<div class="data">
+</div>
+</div>
+<div class="rightbody">
+<h2>News</h2>
+<div  class="data"></div>
+</div>
+
+</div>
+</div>
+</body>
+</center>
+</html>
